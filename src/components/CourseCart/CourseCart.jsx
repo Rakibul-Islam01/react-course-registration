@@ -7,7 +7,7 @@ const CourseCart = ({ courses, credits, prices }) => {
     // const {course_name} = courses;
     // console.log(courses)
     return (
-        <div className="md:w-1/4 bg-slate-200 md:ml-3 text-black rounded-sm">
+        <div className="w-full mx-auto md:w-1/4 bg-slate-200 mt-3 md:mt-0 md:ml-3 text-black rounded-sm">
             <div>
                 <h3 className="text-black font-bold pl-3 border-b-8 bg-slate-100 py-3">Credit Hours Remaining: {20 - credits} Hours</h3>
             </div>
@@ -26,10 +26,10 @@ const CourseCart = ({ courses, credits, prices }) => {
                 <h3 className="font-semibold py-2">Total Credit Hour: {credits} Hours</h3>
                 <hr className="border-black" />
             </div>
-            <div className="md:pl-3">
-                <h1 className="font-bold flex justify-between pr-3"><span>Total Price:</span> <span>${prices}</span></h1>
+            <div className="">
+                <h1 className="font-bold flex justify-between px-3"><span>Total Price:</span> <span>${prices}</span></h1>
             </div>
-            <p className="text-red-400 md:pl-3 text-sm mt-4"><span className="text-black font-semibold">N.B:</span> You can enroll upto 20 credits.</p>
+            <p className="text-red-400 px-3 text-sm mt-4 pb-4"><span className="text-black font-semibold">N.B:</span> You can enroll upto 20 credits.</p>
         </div>
     );
 };

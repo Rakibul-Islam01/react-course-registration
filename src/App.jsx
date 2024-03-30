@@ -4,6 +4,7 @@ import Courses from "./components/Courses/Courses"
 import Header from "./components/Header/Header"
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import Footer from "./components/Footer/Footer";
 
 
 
@@ -49,10 +50,11 @@ function App() {
     <>
       <div className="bg-white">
         <Header></Header>
-        <div className="md:flex mx-16">
+        <div className="md:flex mx-0 md:mx-16">
           <Courses handleAddToCourses={handleAddToCourses}></Courses>
           <CourseCart courses={courses} credits={credits} prices={prices}></CourseCart>
         </div>
+        <Footer></Footer>
       </div>
 
     </>

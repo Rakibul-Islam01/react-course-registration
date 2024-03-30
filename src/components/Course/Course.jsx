@@ -6,8 +6,8 @@ const Course = ({ course, handleAddToCourses }) => {
     const { course_name, credit, details, image, price } = course;
     // console.log(image)
     return (
-        <div>
-            <div className="card w-60 h-full mx-auto bg-white p-4 shadow-xl">
+        <div className="mx-auto mb-3">
+            <div className="card w-full md:w-60 h-full mx-auto bg-white p-4 shadow-xl">
                 <div>
                     <img src={image} alt="vvv" />
                 </div>
