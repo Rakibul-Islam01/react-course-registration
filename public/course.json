@@ -1,0 +1,75 @@
+[
+    {
+      "course_name": "Introduction to Programming",
+      "image": "https://i.postimg.cc/QCpJdzFB/Rectangle-2-2.png",
+      "heading": "Beginner's Guide to Programming",
+      "details": "Learn the fundamentals of programming languages such as Python, Java, or C++. No prior experience required.",
+      "price": 49.99,
+      "credit": 3
+    },
+    {
+      "course_name": "Algorithms",
+      "image": "https://i.postimg.cc/MpZmzdqT/Rectangle-2-3.png",
+      "heading": "Mastering Algorithms: Theory and Practice",
+      "details": "Delve into the world of algorithms and data structures. Understand algorithm design techniques and their applications.",
+      "price": 79.99,
+      "credit": 4
+    },
+    {
+      "course_name": "C++",
+      "image": "https://i.postimg.cc/6qshwKpJ/Rectangle-2-4.png",
+      "heading": "C++ Programming: From Basics to Advanced",
+      "details": "Comprehensive course covering C++ programming language from basics to advanced topics like templates, STL, and memory management.",
+      "price": 59.99,
+      "credit": 3
+    },
+    {
+      "course_name": "Basic Data Structures",
+      "image": "https://i.postimg.cc/bvWxHPbD/Rectangle-3.png",
+      "heading": "Understanding Data Structures: A Primer",
+      "details": "Learn essential data structures such as arrays, linked lists, stacks, and queues. Practical exercises included.",
+      "price": 39.99,
+      "credit": 2
+    },
+    {
+      "course_name": "Object-Oriented Programming with Python",
+      "image": "https://i.postimg.cc/yd0LTB5t/Rectangle-2.png",
+      "heading": "Python for Object-Oriented Programming",
+      "details": "Explore object-oriented programming concepts using Python. Learn to design and implement classes, inheritance, and polymorphism.",
+      "price": 69.99,
+      "credit": 3
+    },
+    {
+      "course_name": "Software Engineering",
+      "image": "https://i.postimg.cc/cLDMCwLc/Rectangle-2-5.png",
+      "heading": "Principles of Software Engineering",
+      "details": "Gain insights into software development methodologies, requirements engineering, design patterns, and project management.",
+      "price": 89.99,
+      "credit": 4
+    },
+    {
+      "course_name": "AWS Cloud Computing",
+      "image": "https://i.postimg.cc/wTQkKSKZ/Rectangle-3-1.png",
+      "heading": "AWS Certified Solutions Architect",
+      "details": "Prepare for AWS Certified Solutions Architect exam. Learn about AWS services, architecture design, and best practices.",
+      "price": 99.99,
+      "credit": 5
+    },
+    {
+      "course_name": "Database Fundamentals",
+      "image": "https://i.postimg.cc/xdcGz8kV/Rectangle-2-1.png",
+      "heading": "Introduction to Databases",
+      "details": "Covering relational database concepts, SQL queries, normalization, and database design principles.",
+      "price": 49.99,
+      "credit": 3
+    },
+    {
+      "course_name": "Problem Solving in Computer Science",
+      "image": "https://i.postimg.cc/RCfRdWgM/Rectangle-2-6.png",
+      "heading": "Mastering Problem Solving Techniques",
+      "details": "Learn systematic approaches to solve complex computational problems. Topics include algorithms, data structures, and optimization strategies.",
+      "price": 79.99,
+      "credit": 4
+    }
+  ]
+  
